@@ -12,16 +12,22 @@ svg {
 
 .container {
   position: relative;
+  word-wrap: break-word;
+  word-break: break-all;
 }
 
 #title {
   text-align: center;
   margin-top: 20px;
+  word-wrap: break-word;
+  word-break: break-all;
 }
 
 #description {
   text-align: center;
   margin-bottom: 20px;
+  word-wrap: break-word;
+  word-break: break-all;
 }
 
 #legend {
