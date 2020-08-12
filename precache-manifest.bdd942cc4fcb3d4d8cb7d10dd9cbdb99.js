@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df3f6db333463c22624699a62a919fbf",
+    "revision": "8e046fb7102c338f365ea566424234b0",
     "url": "/treemap-diagram/index.html"
   },
   {
-    "revision": "5f8434145be30410d0ac",
-    "url": "/treemap-diagram/static/css/main.14add97b.chunk.css"
+    "revision": "24a67d3e6a43664e2613",
+    "url": "/treemap-diagram/static/css/main.296f050f.chunk.css"
   },
   {
     "revision": "3a0ca052eb967946e938",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/treemap-diagram/static/js/2.e8587e59.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f8434145be30410d0ac",
+    "revision": "24a67d3e6a43664e2613",
     "url": "/treemap-diagram/static/js/main.69ce4d54.chunk.js"
   },
   {
